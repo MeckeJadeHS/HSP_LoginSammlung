@@ -25,6 +25,7 @@ la2697
 # Gruppe_D
 HinrichsJadeHs
 123xiaowei
+ClaudeMayela
 
 # Gruppe_E
 S-moell
